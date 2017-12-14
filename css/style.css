@@ -1,0 +1,52 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+.wrap {
+	width: 500px;
+	margin: 0 auto;
+}
+
+.text-in {
+	width: inherit;
+    padding: 20px 20px 20px 20px;
+	border: none;
+	background: rgba(0, 0, 0, 0.003);
+	box-shadow: inset 0 -2px 1px rgba(0,0,0,0.03);
+}
+
+li {
+    list-style-type: none;
+}
+.view {
+	padding: 5px 20px 5px 20px;
+}
+.text-todo {
+	margin-left: 20px;
+}
+.delete-todo {
+	float: right;
+	border: none;
+	background: #fff
+}
+.check-todo {
+	width: 15px;
+	height: 15px;
+	border-radius: 5px;
+}
+.all {
+	margin-left: 20px;
+}
+
+.active {
+	margin-left: 20px;
+}
+
+.completed {
+	margin-left: 20px;
+}
+
+.clear {
+	margin-left: 20px;
+}
